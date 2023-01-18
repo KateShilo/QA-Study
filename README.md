@@ -1,2 +1,2 @@
 # QA-Study
-Нello Olympic
+Нello Olympic!
