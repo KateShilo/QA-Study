@@ -1,6 +1,3 @@
 # QA-Study
-<<<<<<< HEAD
+HEAD
 Нello Olympic!
-=======
--Нello Olympic-
->>>>>>> test
